@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --bg: #0C0C0C;
+  --ink: #D7E2EA;
+  --mist: #8A93A0;
+  --line: rgba(215,226,234,0.10);
+  --line-hi: rgba(215,226,234,0.22);
+  --nav-h: 84px;
+}
+
+@font-face{
+  font-family: 'Milan Display';
+  src: url('/fonts/MilanDisplay-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+*{ box-sizing: border-box; }
+
+html{
+  scroll-behavior: smooth;
+}
+
+html.no-cursor, html.no-cursor *{
+  cursor: auto;
+}
+
+body{
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Kanit', system-ui, sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+html[dir="rtl"] body{
+  font-family: 'Tajawal', 'Kanit', system-ui, sans-serif;
+}
+
+/* Components hardcode the `font-display` (Kanit) utility on headings/labels
+   directly, which otherwise wins over the inherited body font. Force those
+   elements back to the Arabic typeface whenever the page is RTL. */
+html[dir="rtl"] .font-display{
+  font-family: 'Tajawal', 'Kanit', system-ui, sans-serif;
+}
+
+/* Large display headings get the Milan Display Black face; it only ships
+   one weight, so it's reserved for big titles, not body copy or labels. */
+html[dir="rtl"] .font-display.font-bold,
+html[dir="rtl"] .font-display.font-extrabold{
+  font-family: 'Milan Display', 'Tajawal', 'Kanit', system-ui, sans-serif;
+}
+
+::selection{
+  background: rgba(215,226,234,0.18);
+  color: #fff;
+}
+
+a{ color: inherit; }
+
+.hero-heading{
+  background: linear-gradient(180deg, #646973 0%, #BBCCD7 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+.has-custom-cursor, .has-custom-cursor *{
+  cursor: none;
+}
+
+@media (max-width: 900px){
+  .has-custom-cursor, .has-custom-cursor *{
+    cursor: auto;
+  }
+}
+
+@keyframes marquee-left{
+  from{ transform: translateX(0); }
+  to{ transform: translateX(-100%); }
+}
+@keyframes marquee-right{
+  from{ transform: translateX(-100%); }
+  to{ transform: translateX(0); }
+}
+
+@keyframes scrolldot{
+  0%{ opacity: 1; top: 6px; }
+  70%{ opacity: 0; top: 16px; }
+  100%{ opacity: 0; top: 6px; }
+}
+
+@media (prefers-reduced-motion: reduce){
+  html{ scroll-behavior: auto; }
+}

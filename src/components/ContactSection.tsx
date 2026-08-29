@@ -16,9 +16,19 @@ export default function ContactSection() {
     { icon: InstagramIcon, label: dict.contact.instagram, value: contactLinks.instagram, href: contactLinks.instagramUrl },
   ];
 
-  function handleSubmit(e: FormEvent) {
+  function handleSubmit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault();
+    const form = e.currentTarget;
+    const name = (form.elements.namedItem('f-name') as HTMLInputElement)?.value ?? '';
+    const email = (form.elements.namedItem('f-email') as HTMLInputElement)?.value ?? '';
+    const message = (form.elements.namedItem('f-message') as HTMLTextAreaElement)?.value ?? '';
+
+    const subject = encodeURIComponent(`Project inquiry from ${name}`);
+    const body = encodeURIComponent(`${message}\n\n— ${name} (${email})`);
+    window.location.href = `mailto:${contactLinks.email}?subject=${subject}&body=${body}`;
+
     setSent(true);
+    form.reset();
   }
 
   return (
@@ -88,6 +98,7 @@ export default function ContactSection() {
               </label>
               <input
                 id="f-name"
+                name="f-name"
                 type="text"
                 required
                 className="w-full rounded-lg border border-line bg-black/30 px-3.5 py-2.5 text-sm text-ink outline-none transition-colors focus:border-line-hi"
@@ -99,6 +110,7 @@ export default function ContactSection() {
               </label>
               <input
                 id="f-email"
+                name="f-email"
                 type="email"
                 required
                 className="w-full rounded-lg border border-line bg-black/30 px-3.5 py-2.5 text-sm text-ink outline-none transition-colors focus:border-line-hi"
@@ -110,6 +122,7 @@ export default function ContactSection() {
               </label>
               <textarea
                 id="f-message"
+                name="f-message"
                 rows={5}
                 required
                 className="w-full rounded-lg border border-line bg-black/30 px-3.5 py-2.5 text-sm text-ink outline-none transition-colors focus:border-line-hi"
@@ -122,7 +135,11 @@ export default function ContactSection() {
             >
               {dict.contact.formSend}
             </button>
-            {sent && <p className="mt-3 text-center text-[0.82rem] text-ink/70">{dict.contact.formSent}</p>}
+            {sent && (
+              <p role="status" aria-live="polite" className="mt-3 text-center text-[0.82rem] text-ink/70">
+                {dict.contact.formSent}
+              </p>
+            )}
           </motion.form>
         </div>
       </div>

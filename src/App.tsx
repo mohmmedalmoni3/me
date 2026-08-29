@@ -1,4 +1,5 @@
 import { LangProvider, useLang } from './context/LangContext';
+import { SmoothScrollProvider } from './context/SmoothScroll';
 import CustomCursor from './components/CustomCursor';
 import Nav from './components/Nav';
 import HeroSection from './components/HeroSection';
@@ -19,7 +20,7 @@ function Shell() {
       <Nav />
       <HeroSection />
       <MarqueeSection />
-      <main>
+      <main id="main">
         <AboutSection />
         <ServicesSection />
         <SkillsSection />
@@ -34,8 +35,10 @@ function Shell() {
 
 export default function App() {
   return (
-    <LangProvider>
-      <Shell />
-    </LangProvider>
+    <SmoothScrollProvider>
+      <LangProvider>
+        <Shell />
+      </LangProvider>
+    </SmoothScrollProvider>
   );
 }

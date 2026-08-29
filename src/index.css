@@ -22,7 +22,12 @@
 *{ box-sizing: border-box; }
 
 html{
-  scroll-behavior: smooth;
+  /* Lenis now owns scroll smoothing (see src/context/SmoothScroll.tsx).
+     Leaving the native `scroll-behavior: smooth` on here would make the
+     browser ALSO try to animate scroll on anchor jumps, fighting Lenis's
+     own interpolation frame-by-frame — the classic "double smoothing"
+     stutter. Anchor links are smoothed via `lenis.scrollTo()` in Nav.tsx. */
+  scroll-behavior: auto;
 }
 
 html.no-cursor, html.no-cursor *{
@@ -61,6 +66,31 @@ html[dir="rtl"] .font-display.font-extrabold{
 }
 
 a{ color: inherit; }
+
+/* Accessible keyboard focus ring — only shows for keyboard nav, not mouse clicks */
+:focus-visible{
+  outline: 2px solid rgba(215,226,234,0.7);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+.skip-link{
+  position: absolute;
+  top: -100%;
+  left: 1rem;
+  z-index: 999;
+  padding: 0.75rem 1.25rem;
+  background: var(--ink);
+  color: var(--bg);
+  font-family: 'Kanit', system-ui, sans-serif;
+  font-weight: 600;
+  font-size: 0.85rem;
+  border-radius: 0.5rem;
+  transition: top 0.2s ease;
+}
+.skip-link:focus{
+  top: 1rem;
+}
 
 .hero-heading{
   background: linear-gradient(180deg, #646973 0%, #BBCCD7 100%);

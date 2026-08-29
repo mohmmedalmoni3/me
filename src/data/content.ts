@@ -125,9 +125,9 @@ const projectsEn: Project[] = [
 const projectsAr: Project[] = [
   {
     tags: ['مميز', 'منصة ويب'],
-    title: 'متجر IEEE ANU',
+    title: ' IEEE ANU',
     desc: 'منصة متكاملة لـ IEEE ANU تضم متجراً إلكترونياً للمواد التعليمية، وورش تدريبية، وخدمات العضوية.',
-    stack: ['HTML', 'CSS', 'JavaScript'],
+    stack: ['React', 'Next Js', 'JavaScript'],
     link: 'https://ieeeanu.app',
     featured: true,
     image: '/projects/ieee-anu-store.jpg',
@@ -151,7 +151,7 @@ const projectsAr: Project[] = [
     tags: ['أمن'],
     title: 'لوحة تحكم ATP الأمنية',
     desc: 'لوحة مراقبة أمنية تضم تتبع أداء النظام لحظياً، مراقبة الحركة، وتحليلات فورية.',
-    stack: ['JavaScript', 'لحظي'],
+    stack: ['JavaScript', 'لحظي','python'],
     image: '/projects/atp-security.jpg',
   },
   {
@@ -171,7 +171,7 @@ const experienceEn: ExperienceItem[] = [
     tech: ['Next.js', 'Node.js', 'Prisma', 'Lua'],
   },
   {
-    title: 'Freelance Full-Stack Developer',
+    title: ' Full-Stack Developer',
     company: 'Independent',
     period: '2022 — Present',
     desc: 'Delivered 40+ projects for clients across MENA — SaaS dashboards, e-commerce builds, custom APIs, and FiveM server infrastructure.',

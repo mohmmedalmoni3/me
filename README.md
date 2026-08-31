@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=MOHMMED%20ALMOMANI&fontSize=58&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%20%2F%20%20FIVEM%20ENGINEER&descSize=15&descAlignY=58&fontColor=F5A623&color=0:0B0A09,35:141210,65:21150D,100:0B0A09&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=MOHMMED%20ALMOMANI&fontSize=58&fontAlignY=36&font=Orbitron&fontWeight=800&desc=FULL-STACK%20DEVELOPER%20%20%2F%20%20FIVEM%20ENGINEER&descSize=15&descAlignY=58&fontColor=F5A623&color=0:070605,35:141210,65:24170E,100:070605&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -8,15 +8,23 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/%E2%97%89_ONLINE-AVAILABLE_FOR_WORK-F5A623?style=for-the-badge&labelColor=0B0A09"/> <img src="https://img.shields.io/badge/%E2%96%B6_40%2B-PROJECTS-E85D26?style=for-the-badge&labelColor=0B0A09"/> <img src="https://img.shields.io/badge/%E2%97%86-JORDAN-F5A623?style=for-the-badge&labelColor=0B0A09"/>
+<img src="https://img.shields.io/badge/%E2%97%89_ONLINE-AVAILABLE_FOR_WORK-F5A623?style=for-the-badge&labelColor=070605"/>
+<img src="https://img.shields.io/badge/%E2%96%B6_40%2B-PROJECTS-E85D26?style=for-the-badge&labelColor=070605"/>
+<img src="https://img.shields.io/badge/%E2%97%86-JORDAN-F5A623?style=for-the-badge&labelColor=070605"/>
 
 <br><br>
 
-<a href="https://ieeeanu.app/"> <img src="https://img.shields.io/badge/ENTER_PORTFOLIO-141210?style=for-the-badge&logo=googlechrome&logoColor=F5A623"/> </a>
+<a href="https://ieeeanu.app/">
+<img src="https://img.shields.io/badge/ENTER_PORTFOLIO-141210?style=for-the-badge&logo=googlechrome&logoColor=F5A623"/>
+</a>
 
-<a href="mailto:mohmmedalmomani3@gmail.com"> <img src="https://img.shields.io/badge/LET'S_BUILD-E85D26?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/> </a>
+<a href="mailto:mohmmedalmomani3@gmail.com">
+<img src="https://img.shields.io/badge/LET'S_BUILD-E85D26?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+</a>
 
-<a href="https://github.com/mohamme-cmd"> <img src="https://img.shields.io/badge/EXPLORE_CODE-141210?style=for-the-badge&logo=github&logoColor=F5A623"/> </a>
+<a href="https://github.com/mohamme-cmd">
+<img src="https://img.shields.io/badge/EXPLORE_CODE-141210?style=for-the-badge&logo=github&logoColor=F5A623"/>
+</a>
 
 <br><br>
 
@@ -25,6 +33,7 @@
 <br><br>
 
 </div>
+
 
 ---
 

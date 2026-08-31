@@ -1,8 +1,28 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=MOHMMED%20ALMOMANI&fontSize=58&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%20%2F%20%20FIVEM%20ENGINEER&descSize=15&descAlignY=58&fontColor=F5A623&color=0:0B0A09,35:141210,65:21150D,100:0B0A09&animation=fadeIn" width="100%"/>
+
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=900&color=9E9387&center=true&vCenter=true&width=750&lines=Engineering+digital+experiences+with+precision.;From+interface+to+infrastructure.;Clean+architecture.+Beautiful+interfaces.+Real+systems." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2300&pause=650&color=F5A623&center=true&vCenter=true&width=850&lines=%24+initializing+mohmmed.almomani...;%24+loading+engineering+mindset...;%24+full-stack+%2B+backend+%2B+systems+%2B+fivem;%24+40%2B+projects+shipped;%24+status%3A+AVAILABLE_FOR_WORK;%24+ready_to_build_%E2%9A%A1" alt="Typing Animation"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/%E2%97%89_ONLINE-AVAILABLE_FOR_WORK-F5A623?style=for-the-badge&labelColor=0B0A09"/> <img src="https://img.shields.io/badge/%E2%96%B6_40%2B-PROJECTS-E85D26?style=for-the-badge&labelColor=0B0A09"/> <img src="https://img.shields.io/badge/%E2%97%86-JORDAN-F5A623?style=for-the-badge&labelColor=0B0A09"/>
+
+<br><br>
+
+<a href="https://ieeeanu.app/"> <img src="https://img.shields.io/badge/ENTER_PORTFOLIO-141210?style=for-the-badge&logo=googlechrome&logoColor=F5A623"/> </a>
+
+<a href="mailto:mohmmedalmomani3@gmail.com"> <img src="https://img.shields.io/badge/LET'S_BUILD-E85D26?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/> </a>
+
+<a href="https://github.com/mohamme-cmd"> <img src="https://img.shields.io/badge/EXPLORE_CODE-141210?style=for-the-badge&logo=github&logoColor=F5A623"/> </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5A623" width="65%"/>
+
+<br><br>
 
 </div>
 

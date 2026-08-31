@@ -29,6 +29,11 @@ I'm a **Full-Stack Web Developer & FiveM Engineer** based in Jordan 🇯🇴, pa
 
 ## ✨ Features
 
+- **Preloader entrance** — a branded loading sequence with a fill-bar, followed by a choreographed staggered reveal of the hero (nav → eyebrow/name → terminal → actions → visual).
+- **Scroll progress bar** — a slim amber-to-rust indicator across the top of the viewport that tracks reading progress.
+- **3D tilt + spotlight project cards** — cards tilt toward the cursor in real 3D (`perspective`/`rotateX`/`rotateY`) with a soft light that follows the pointer.
+- **Magnetic buttons** — primary/outline/secondary CTAs subtly pull toward the cursor on hover for a tactile, premium feel.
+- **Living background** — the ambient glow behind the content drifts slowly and continuously, instead of sitting static.
 - **Bilingual, RTL-ready** — one-click EN ⇄ AR toggle that re-flows the entire layout (mirrored nav, timeline, stat rows, and typography) for true right-to-left support, powered by the Cairo typeface.
 - **Signature terminal animation** — a hand-rolled typewriter effect in the hero that "types out" a JSON-style introduction, byte by byte.
 - **Scroll-triggered reveals** — sections and cards fade/slide into view via `IntersectionObserver`, with staggered timing for grouped elements.
@@ -38,7 +43,7 @@ I'm a **Full-Stack Web Developer & FiveM Engineer** based in Jordan 🇯🇴, pa
 - **Vertical experience timeline** — chronological career history with tech-stack tags per role.
 - **Working contact form UI** — client-side validation and a confirmation message (ready to wire up to a backend or form service).
 - **Fully responsive** — tuned breakpoints down to small mobile devices (380px+).
-- **Accessible by default** — semantic landmarks, `aria-label`s throughout, visible keyboard focus states, and `prefers-reduced-motion` support.
+- **Accessible by default** — semantic landmarks, `aria-label`s throughout, visible keyboard focus states, and full `prefers-reduced-motion` support (every animation above degrades gracefully).
 - **Zero build step** — no framework, no bundler, no `node_modules`. Open the file and it runs.
 
 ---

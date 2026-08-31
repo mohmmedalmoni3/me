@@ -1,33 +1,28 @@
 <div align="center">
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:141210,50:1c1712,100:141210&text=MOHMMED%20ALMOMANI&fontColor=F5A623&fontSize=52&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%20%C2%B7%20%20FIVEM%20ENGINEER&descAlignY=62&descSize=15&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=MOHMMED%20ALMOMANI&fontSize=54&fontColor=F5A623&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20FIVEM%20ENGINEER&descAlignY=58&descSize=16&color=gradient&customColorList=0,2,12,20&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=700&color=F5A623&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences+%F0%9F%9A%80;Full-Stack+Web+Developer+%F0%9F%92%BB;FiveM+Engineer+%F0%9F%8E%AE;Clean+Code.+Powerful+Systems.+%E2%9A%A1;Turning+Ideas+Into+Production+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=700&color=F5A623&center=true&vCenter=true&width=720&lines=%3E_+BUILDING+THE+WEB+%26+BEYOND;%3E_+DESIGNING+SYSTEMS+THAT+FEEL+ALIVE;%3E_+FULL-STACK+%2B+FIVEM+ENGINEERING;%3E_+40%2B+PROJECTS+SHIPPED;%3E_+FROM+IDEA+TO+PRODUCTION+%F0%9F%9A%80" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/●_AVAILABLE-FOR_WORK-F5A623?style=for-the-badge&labelColor=141210"/>
+<img src="https://img.shields.io/badge/40%2B-PROJECTS-E85D26?style=for-the-badge&labelColor=141210"/>
+<img src="https://img.shields.io/badge/BASED-IN-JORDAN-F5A623?style=for-the-badge&labelColor=141210"/>
 
 <br><br>
 
 <a href="https://github.com/mohamme-cmd">
-<img src="https://img.shields.io/badge/GITHUB-141210?style=for-the-badge&logo=github&logoColor=F5A623" />
+<img src="https://img.shields.io/badge/GITHUB-141210?style=for-the-badge&logo=github&logoColor=F5A623"/>
 </a>
-&nbsp;
 <a href="https://ieeeanu.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-E85D26?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/PORTFOLIO-E85D26?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
 </a>
-&nbsp;
 <a href="mailto:mohmmedalmomani3@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-F5A623?style=for-the-badge&logo=gmail&logoColor=141210" />
+<img src="https://img.shields.io/badge/EMAIL-F5A623?style=for-the-badge&logo=gmail&logoColor=141210"/>
 </a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/40%2B-PROJECTS-F5A623?style=flat-square&labelColor=141210" />
-<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-E85D26?style=flat-square&labelColor=141210" />
-<img src="https://img.shields.io/badge/FIVEM-ENGINEER-F5A623?style=flat-square&labelColor=141210" />
-<img src="https://img.shields.io/badge/JORDAN-🇯🇴-E85D26?style=flat-square&labelColor=141210" />
 
 <br><br>
 
@@ -37,57 +32,67 @@
 
 <div align="center">
 
-# `01` — ABOUT ME
-
-### **I BUILD SYSTEMS, NOT JUST WEBSITES.**
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ███╗   ███╗ ██████╗ ██╗  ██╗███╗   ███╗███╗   ███╗███████╗██████╗ ║
+║   ████╗ ████║██╔═══██╗██║  ██║████╗ ████║████╗ ████║██╔════╝██╔══██╗║
+║   ██╔████╔██║██║   ██║███████║██╔████╔██║██╔████╔██║█████╗  ██║  ██║║
+║   ██║╚██╔╝██║██║   ██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══╝  ██║  ██║║
+║   ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║███████╗██████╔╝║
+║   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ ║
+║                                                                      ║
+║                  SOFTWARE ENGINEER • CREATOR                         ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-## 👋 Hello, I'm Mohmmed
-
-I'm a **Full-Stack Web Developer & FiveM Engineer** from Jordan 🇯🇴.
-
-I build digital products from the first idea all the way to production.
-
-My work combines:
-
-**Design × Engineering × Performance × Experience**
-
-I care deeply about how software **looks**, how it **feels**, and how it **performs**.
-
-Whether it's a modern SaaS platform, an e-commerce system, a dashboard, or a complex FiveM ecosystem — I aim to build software that feels **intentional, fast and polished**.
-
 <br>
 
-> **Good software works.
-> Great software feels effortless.**
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## 🧬 `$ whoami`
+
+```yaml
+name: Mohmmed Almomani
+location: Jordan 🇯🇴
+role:
+  - Full-Stack Developer
+  - FiveM Engineer
+focus:
+  - Web Systems
+  - Backend Architecture
+  - UI / UX
+  - Performance
+  - Game Systems
+
+projects_shipped: 40+
+status: "Available for work"
+```
 
 </td>
 
-<td width="42%" valign="top">
+<td width="45%" valign="top">
+
+## ⚡ `$ system.status`
 
 ```text
-╭──────────────────────────────╮
-│                              │
-│       MOHMMED ALMOMANI       │
-│                              │
-│  ──────────────────────────  │
-│                              │
-│  ◉ Full-Stack Development    │
-│  ◉ Backend Architecture      │
-│  ◉ Modern UI / UX            │
-│  ◉ FiveM Engineering         │
-│  ◉ API Development           │
-│  ◉ Performance Engineering   │
-│                              │
-│  STATUS                      │
-│  ● AVAILABLE FOR WORK        │
-│                              │
-╰──────────────────────────────╯
+┌─────────────────────────────┐
+│ SYSTEM STATUS               │
+├─────────────────────────────┤
+│                             │
+│ Frontend       ██████████  ◎│
+│ Backend        █████████░  ◎│
+│ Architecture   ████████░░  ◎│
+│ UI / UX        ██████████  ◎│
+│ FiveM          █████████░  ◎│
+│ DevOps         ███████░░░  ◎│
+│                             │
+│ STATUS: ONLINE              │
+└─────────────────────────────┘
 ```
 
 </td>
@@ -98,50 +103,88 @@ Whether it's a modern SaaS platform, an e-commerce system, a dashboard, or a com
 
 <div align="center">
 
-# `02` — WHAT I DO
+# ◈ THE MINDSET
+
+### **BUILD LESS. BUILD BETTER.**
+
+```text
+             IDEA
+              │
+              ▼
+        ┌─────────────┐
+        │   DESIGN    │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │ ARCHITECTURE│
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │    CODE     │
+        └──────┬──────┘
+               │
+          ┌────┴────┐
+          ▼         ▼
+       TEST       OPTIMIZE
+          │         │
+          └────┬────┘
+               ▼
+        ┌─────────────┐
+        │   DEPLOY    │
+        └──────┬──────┘
+               │
+               ▼
+           🚀 SHIP
+```
 
 </div>
+
+---
+
+# ◈ WHAT I BUILD
 
 <table>
 <tr>
 
 <td align="center" width="25%">
 
-## 🎨
+### ◉ 01
 
-### FRONTEND
+## WEB
 
-Modern interfaces, responsive layouts, animations and interactive experiences.
-
-</td>
-
-<td align="center" width="25%">
-
-## ⚙️
-
-### BACKEND
-
-APIs, authentication, databases, business logic and scalable architecture.
+Modern web applications with responsive interfaces and polished interactions.
 
 </td>
 
 <td align="center" width="25%">
 
-## 🚀
+### ◉ 02
 
-### DEPLOYMENT
+## SYSTEMS
 
-Cloud infrastructure, domains, databases, CI/CD and production deployments.
+Scalable backend APIs, databases, authentication and business logic.
 
 </td>
 
 <td align="center" width="25%">
 
-## 🎮
+### ◉ 03
 
-### FIVEM
+## FIVEM
 
-Custom frameworks, gameplay systems, jobs, economy and optimization.
+High-performance roleplay systems, frameworks and gameplay infrastructure.
+
+</td>
+
+<td align="center" width="25%">
+
+### ◉ 04
+
+## EXPERIENCE
+
+Interfaces where aesthetics, usability and performance meet.
 
 </td>
 
@@ -152,27 +195,35 @@ Custom frameworks, gameplay systems, jobs, economy and optimization.
 
 <div align="center">
 
-# `03` — TECHNOLOGY UNIVERSE
+# ◈ TECH STACK
 
-### FRONTEND
+### `FRONTEND`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
 
-### BACKEND
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,rust" />
+### `BACKEND`
 
-### DATABASE
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,rust&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+<br><br>
 
-### DEVOPS & TOOLS
+### `DATA`
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" />
 
-### FIVEM
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=lua,js" />
+### `DEVOPS`
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode&theme=dark" />
+
+<br><br>
+
+### `FIVEM`
+
+<img src="https://skillicons.dev/icons?i=lua,js&theme=dark" />
 
 </div>
 
@@ -180,74 +231,76 @@ Custom frameworks, gameplay systems, jobs, economy and optimization.
 
 <div align="center">
 
-# `04` — FEATURED PROJECTS
+# ◈ SELECTED WORK
 
-### SELECTED WORK
+### A FEW THINGS I'VE BUILT
 
 </div>
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
 
-## 🇯🇴 IEEE ANU
+## 🟠 IEEE ANU
 
-### Digital University Platform
+### `DIGITAL PLATFORM`
 
-A full-stack digital platform for the **IEEE Student Branch at Ajloun National University**.
+```text
+NEXT.JS
+   │
+   ├── React
+   │
+   ├── Express.js
+   │
+   ├── PostgreSQL
+   │
+   └── Resend
+```
 
-**Technology**
+A complete digital ecosystem for the IEEE Student Branch at Ajloun National University.
 
-`Next.js` `React` `Express.js` `PostgreSQL` `Neon` `Resend`
+**Built from scratch.**
 
-**Built Features**
-
-* Authentication system
-* Password reset
-* Email infrastructure
-* PostgreSQL database
-* Registration system
-* Content management
-* Responsive UI
-* Load testing with k6
-* Custom domain
+`AUTH` `DATABASE` `EMAIL` `API` `LOAD TESTING`
 
 <br>
 
 <a href="https://ieeeanu.app/">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-F5A623?style=for-the-badge&labelColor=141210" />
+<img src="https://img.shields.io/badge/OPEN_PROJECT-F5A623?style=for-the-badge&labelColor=141210"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎮 JUSTICE CITY
+## 🔴 JUSTICE CITY
 
-### FiveM Framework
+### `FIVEM ECOSYSTEM`
 
-A custom **FiveM roleplay ecosystem** focused on performance, scalability and immersive gameplay.
+```text
+PLAYER
+   │
+   ▼
+GAME SYSTEMS
+   │
+   ├── JOBS
+   ├── ECONOMY
+   ├── STATS
+   └── CONTENT
+   │
+   ▼
+SERVER
+```
 
-**Technology**
+Custom FiveM roleplay ecosystem engineered around performance and immersive gameplay.
 
-`Lua` `JavaScript` `FiveM` `MySQL`
-
-**Built Features**
-
-* Custom economy
-* Jobs system
-* Player statistics
-* Creator showcase
-* Server architecture
-* Performance optimization
-* Custom gameplay systems
+`LUA` `JAVASCRIPT` `MYSQL` `FIVEM`
 
 <br>
 
 <a href="https://justicecfw.com/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-E85D26?style=for-the-badge&labelColor=141210" />
+<img src="https://img.shields.io/badge/EXPLORE-F85D26?style=for-the-badge&labelColor=141210"/>
 </a>
 
 </td>
@@ -258,186 +311,99 @@ A custom **FiveM roleplay ecosystem** focused on performance, scalability and im
 
 <td width="50%" valign="top">
 
-## 🛒 TRY JO
+## 🟡 TRY JO
 
-### Arabic E-Commerce
+### `E-COMMERCE`
 
-Modern RTL e-commerce platform designed for Arabic users.
+Arabic-first shopping experience.
 
-`HTML` `CSS` `JavaScript`
-
-**Features**
-
-* RTL interface
-* Product filtering
-* Shopping cart
-* Categories
-* Offers
-* Responsive UI
+`RTL` `FILTERING` `CART` `OFFERS`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🛡️ ATP SECURITY
+## 🟣 ATP SECURITY
 
-### Monitoring Dashboard
+### `MONITORING`
 
-Real-time infrastructure monitoring interface.
+Real-time system monitoring dashboard.
 
-**Features**
-
-* CPU monitoring
-* RAM monitoring
-* Network statistics
-* Logs
-* Live analytics
-* Arabic RTL interface
+`CPU` `RAM` `NETWORK` `LOGS` `ANALYTICS`
 
 </td>
 
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 👥 USER MANAGEMENT
-
-### Admin Dashboard
-
-Complete user, role and permission management system.
-
-**Features**
-
-* Account management
-* Roles & permissions
-* Search
-* Filtering
-* Export
-* Admin controls
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 MORE PROJECTS
-
-### 40+ Projects
-
-A growing collection of experiments, production systems, dashboards, FiveM resources and web applications.
-
-**Always building. Always improving.**
-
-</td>
-
-</tr>
-
 </table>
 
 ---
 
 <div align="center">
 
-# `05` — ENGINEERING WORKFLOW
-
-</div>
+# ◈ ARCHITECTURE
 
 ```text
-                  ┌───────────────┐
-                  │     IDEA      │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │    RESEARCH   │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │     DESIGN    │
-                  └───────┬───────┘
-                          │
-                          ▼
-             ┌────────────────────────┐
-             │      ARCHITECTURE      │
-             └────────────┬───────────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │     BUILD     │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │     TEST      │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │   OPTIMIZE    │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │    DEPLOY     │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │   MONITOR     │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │    IMPROVE ♻  │
-                  └───────────────┘
+                         ┌─────────────────┐
+                         │      USER       │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                    ┌─────────────────────────┐
+                    │       FRONTEND          │
+                    │    React / Next.js      │
+                    └────────────┬────────────┘
+                                 │
+                              HTTPS
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │         API             │
+                    │    Node / Express       │
+                    └────────────┬────────────┘
+                                 │
+                    ┌────────────┴────────────┐
+                    │                         │
+                    ▼                         ▼
+             ┌──────────────┐         ┌──────────────┐
+             │  PostgreSQL  │         │    Resend    │
+             │    / Neon    │         │    Email     │
+             └──────────────┘         └──────────────┘
 ```
-
-<div align="center">
-
-**DISCOVER → DESIGN → BUILD → TEST → OPTIMIZE → DEPLOY → IMPROVE**
 
 </div>
 
 ---
 
-<div align="center">
-
-# `06` — DEVELOPMENT PHILOSOPHY
-
-</div>
+# ◈ ENGINEERING PRINCIPLES
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-### ⚡ PERFORMANCE
+## ⚡ PERFORMANCE
 
-Fast applications aren't optional.
+Every unnecessary millisecond is technical debt.
 
-I optimize the experience from the browser to the backend.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🎯 PRECISION
-
-Every component has a purpose.
-
-Clean architecture leads to maintainable software.
+I build systems that feel fast.
 
 </td>
 
 <td width="33%" align="center">
 
-### 🎨 EXPERIENCE
+## 🧠 ARCHITECTURE
 
-The interface is part of the product.
+Good architecture makes difficult systems easier to change.
 
-I care about every interaction and detail.
+</td>
+
+<td width="33%" align="center">
+
+## 🎨 DESIGN
+
+The interface is not decoration.
+
+**It is part of the engineering.**
 
 </td>
 
@@ -448,7 +414,7 @@ I care about every interaction and detail.
 
 <div align="center">
 
-# `07` — GITHUB ANALYTICS
+# ◈ GITHUB
 
 <br>
 
@@ -468,9 +434,9 @@ I care about every interaction and detail.
 
 <div align="center">
 
-# `08` — CONTRIBUTION GRAPH
+# ◈ CONTRIBUTIONS
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamme-cmd&bg_color=141210&color=F0ECE4&line=F5A623&point=E85D26&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamme-cmd&bg_color=141210&color=F0ECE4&line=F5A623&point=E85D26&area=true&hide_border=true" width="96%" />
 
 </div>
 
@@ -478,126 +444,111 @@ I care about every interaction and detail.
 
 <div align="center">
 
-# `09` — TECHNICAL PROFILE
-
-</div>
-
-| AREA             | TECHNOLOGIES                                           |
-| :--------------- | :----------------------------------------------------- |
-| 🎨 **Frontend**  | HTML5 · CSS3 · JavaScript · React · Next.js · Tailwind |
-| ⚙️ **Backend**   | Node.js · Express.js · Python · Rust                   |
-| 🗄️ **Database** | PostgreSQL · MySQL · Redis                             |
-| ☁️ **Cloud**     | Vercel · Render · Neon                                 |
-| 🔧 **DevOps**    | Git · GitHub · Docker · Linux · CI/CD                  |
-| 🎮 **FiveM**     | Lua · JavaScript · FiveM                               |
-| 🧪 **Testing**   | k6 · API Testing · Performance Testing                 |
-| 🌍 **UI**        | Responsive · RTL · Accessibility · Motion              |
-
----
-
-<div align="center">
-
-# `10` — PROJECT ARCHITECTURE
+# ◈ THE WORKFLOW
 
 ```text
-                         CLIENT
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   FRONTEND UI   │
-                  │ React / Next.js │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │    REST API     │
-                  │ Express / Node  │
-                  └────────┬────────┘
-                           │
-                  ┌────────┴────────┐
-                  ▼                 ▼
-           ┌────────────┐    ┌────────────┐
-           │ PostgreSQL │    │   Resend   │
-           │   / Neon   │    │   Email    │
-           └────────────┘    └────────────┘
+┌──────────┐    ┌──────────┐    ┌──────────┐
+│ DISCOVER │───▶│  DESIGN  │───▶│ ARCHITECT│
+└──────────┘    └──────────┘    └─────┬────┘
+                                      │
+                                      ▼
+                               ┌──────────┐
+                               │  BUILD   │
+                               └────┬─────┘
+                                    │
+                         ┌──────────┴──────────┐
+                         ▼                     ▼
+                    ┌─────────┐          ┌──────────┐
+                    │  TEST   │          │ OPTIMIZE │
+                    └────┬────┘          └────┬─────┘
+                         │                    │
+                         └─────────┬──────────┘
+                                   ▼
+                             ┌──────────┐
+                             │  DEPLOY  │
+                             └────┬─────┘
+                                  │
+                                  ▼
+                             ┌──────────┐
+                             │ MONITOR  │
+                             └────┬─────┘
+                                  │
+                                  ▼
+                             ┌──────────┐
+                             │ IMPROVE  │
+                             └──────────┘
 ```
 
 </div>
 
 ---
 
+# ◈ PROJECT STRUCTURE
+
+```text
+portfolio/
+│
+├── ◉ index.html
+├── ◉ my-photo.jpg
+├── ◉ cv.pdf
+│
+├── images/
+│   ├── ◌ ieeeanu-app.jpg
+│   ├── ◌ justicecfw.jpg
+│   ├── ◌ tryjo-ecommerce.jpg
+│   ├── ◌ atp-security-dashboard.jpg
+│   └── ◌ user-management-dashboard.jpg
+│
+└── README.md
+```
+
+---
+
 <div align="center">
 
-# `11` — CURRENT FOCUS
-
-</div>
+# ◈ CURRENTLY BUILDING
 
 <table>
 <tr>
 
-<td width="50%">
+<td align="center">
 
-### 🚀 BUILDING
+### `01`
 
-* Full-Stack applications
-* SaaS platforms
-* FiveM systems
-* Developer tools
-* Modern dashboards
-* Production APIs
+**FULL-STACK SYSTEMS**
 
 </td>
 
-<td width="50%">
+<td align="center">
 
-### 🧠 LEARNING
+### `02`
 
-* Advanced backend architecture
-* System design
-* Cloud infrastructure
-* DevOps
-* Performance engineering
-* Scalable systems
+**SAAS PLATFORMS**
+
+</td>
+
+<td align="center">
+
+### `03`
+
+**FIVEM SYSTEMS**
+
+</td>
+
+<td align="center">
+
+### `04`
+
+**DEVELOPER TOOLS**
 
 </td>
 
 </tr>
 </table>
 
----
-
-<div align="center">
-
-# `12` — LET'S BUILD
-
-### Have an idea?
-
-### Turn it into a product.
-
 <br>
 
-<a href="mailto:mohmmedalmomani3@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-F5A623?style=for-the-badge&logo=gmail&logoColor=141210" />
-</a>
-
-<a href="https://discord.com/users/king_momani">
-<img src="https://img.shields.io/badge/DISCORD-E85D26?style=for-the-badge&logo=discord&logoColor=FFFFFF" />
-</a>
-
-<a href="https://wa.me/962787297364">
-<img src="https://img.shields.io/badge/WHATSAPP-F5A623?style=for-the-badge&logo=whatsapp&logoColor=141210" />
-</a>
-
-<a href="https://www.instagram.com/7amodah_momani">
-<img src="https://img.shields.io/badge/INSTAGRAM-E85D26?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
-</a>
-
-<br><br>
-
-**I typically reply within a few hours.**
-
-Discord is fastest for quick questions.
-Email is best for project briefs.
+### `LEARNING → SYSTEM DESIGN · DEVOPS · CLOUD · PERFORMANCE`
 
 </div>
 
@@ -605,18 +556,64 @@ Email is best for project briefs.
 
 <div align="center">
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:141210,50:1c1712,100:141210&animation=fadeIn" width="100%" />
-
-### ⚡ CODE · CREATE · SHIP · REPEAT
+# ◈ LET'S CREATE
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mohamme-cmd&style=for-the-badge&color=F5A623&label=PROFILE+VIEWS" />
+```text
+          YOU HAVE THE IDEA.
+                    │
+                    ▼
+          I BUILD THE SYSTEM.
+                    │
+                    ▼
+             WE SHIP IT. 🚀
+```
+
+<br>
+
+<a href="mailto:mohmmedalmomani3@gmail.com">
+<img src="https://img.shields.io/badge/START_A_PROJECT-F5A623?style=for-the-badge&logo=gmail&logoColor=141210"/>
+</a>
 
 <br><br>
 
-<sub>© 2026 Mohmmed Almomani · Built with code, caffeine & obsession for great interfaces.</sub>
+<a href="https://discord.com/users/king_momani">
+<img src="https://img.shields.io/badge/DISCORD-E85D26?style=for-the-badge&logo=discord&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://wa.me/962787297364">
+<img src="https://img.shields.io/badge/WHATSAPP-F5A623?style=for-the-badge&logo=whatsapp&logoColor=141210"/>
+</a>
+
+<a href="https://www.instagram.com/7amodah_momani">
+<img src="https://img.shields.io/badge/INSTAGRAM-E85D26?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+</a>
+
+<br><br>
+
+**Discord for quick conversations · Email for project briefs**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:141210,50:1c1712,100:141210&animation=fadeIn" width="100%"/>
+
+### `CODE` · `CREATE` · `SHIP` · `REPEAT`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mohamme-cmd&style=for-the-badge&color=F5A623&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<sub>© 2026 Mohmmed Almomani</sub>
+
+<br>
+
+<sub>Built with code, caffeine & an obsession for great interfaces.</sub>
 
 </div>

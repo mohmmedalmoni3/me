@@ -1,81 +1,464 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=40&pause=1000&color=F5A623&center=true&vCenter=true&width=500&lines=Mohammed+Almomani" alt="Mohammed Almomani" />
+# 🇯🇴 MOHMMED ALMOMANI
 
-### 🚀 Full-Stack Developer · FiveM Engineer · UI/UX Craftsman
+### `FULL-STACK DEVELOPER` · `FIVEM ENGINEER` · `SOFTWARE ENGINEER`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Gmail-E85D26?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohmmedalmomani3@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/king_momani)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/962787297364)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7amodah_momani)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamme-cmd)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=F5A623&center=true&vCenter=true&width=650&lines=Building+Digital+Experiences+%F0%9F%9A%80;Full-Stack+Web+Developer+%F0%9F%92%BB;FiveM+Engineer+%F0%9F%8E%AE;Clean+Code.+Powerful+Systems.+%E2%9A%A1;Turning+Ideas+Into+Production+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E85D26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-F5A623?style=flat-square&logo=css3&logoColor=141210)
-![JavaScript](https://img.shields.io/badge/JavaScript-141210?style=flat-square&logo=javascript&logoColor=F5A623)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=141210)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![FiveM](https://img.shields.io/badge/FiveM-FFB71B?style=flat-square&logo=fivem&logoColor=141210)
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-f5a623?style=for-the-badge&labelColor=141210" />
+<img src="https://img.shields.io/badge/LOCATION-JORDAN-e85d26?style=for-the-badge&labelColor=141210" />
+<img src="https://img.shields.io/badge/PROJECTS-40%2B-9e9387?style=for-the-badge&labelColor=141210" />
+
+<br><br>
+
+<a href="https://github.com/mohamme-cmd">
+<img src="https://img.shields.io/badge/GitHub-mohamme--cmd-141210?style=for-the-badge&logo=github&logoColor=f5a623" />
+</a>
+
+<a href="https://ieeeanu.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-e85d26?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="mailto:mohmmedalmomani3@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-f5a623?style=for-the-badge&logo=gmail&logoColor=141210" />
+</a>
 
 </div>
 
 ---
 
-## 📖 About Me
+<div align="center">
 
-<img align="right" src="my-photo.jpg" width="200" style="border-radius: 16px; border: 2px solid #F5A623;" />
+## ⚡ I BUILD SYSTEMS, NOT JUST WEBSITES.
 
-Hi there! 👋 I'm **Mohammed Almomani**, a passionate **Full-Stack Developer** and **FiveM Engineer** based in **Jordan 🇯🇴**. I specialize in building clean, performant, and user-centric digital experiences.
+</div>
 
-- 🖥️ **Frontend:** Pixel-perfect, responsive UIs with React, TypeScript & Tailwind.
-- ⚙️ **Backend:** Scalable, secure APIs with Node.js, Express, and various databases.
-- 🎮 **FiveM:** High-performance roleplay systems, custom frameworks, and complex economies in Lua.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I've shipped **40+ projects** and collaborated with teams across the Arab world and beyond. I believe in writing clean code, creating seamless user journeys, and solving complex problems with elegant solutions.
+### 🧠 WHO I AM
 
-**🌍 Bilingual:** I work fluently in both **English** and **Arabic** (RTL support is my second nature!).
+I'm **Mohmmed Almomani**, a Full-Stack Web Developer and FiveM Engineer from Jordan 🇯🇴.
+
+I enjoy turning ideas into **fast, scalable and visually polished digital products**.
+
+My focus sits at the intersection of:
+
+* 🎨 Modern UI / UX
+* ⚙️ Full-Stack Engineering
+* 🚀 Performance & scalability
+* 🔐 Backend architecture
+* 🎮 FiveM development
+* 🌐 Real-world production systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔥 CURRENTLY
+
+```text
+┌──────────────────────────────┐
+│  Building                    │
+│  ──────────────────────────  │
+│  Full-Stack Applications     │
+│  FiveM Systems               │
+│  SaaS Platforms              │
+│  Developer Tools             │
+│                              │
+│  Learning                    │
+│  ──────────────────────────  │
+│  System Architecture         │
+│  Cloud Infrastructure        │
+│  DevOps                      │
+│  Advanced Backend Systems    │
+└──────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<div align="center">
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E85D26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-F5A623?style=flat-square&logo=css3&logoColor=141210) ![JavaScript](https://img.shields.io/badge/-JavaScript-141210?style=flat-square&logo=javascript&logoColor=F5A623) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=141210) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| **Databases & Tools** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Specialized** | ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![FiveM](https://img.shields.io/badge/-FiveM-FFB71B?style=flat-square&logo=fivem&logoColor=141210) ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white) |
+## 🛠️ TECHNOLOGY UNIVERSE
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,python,rust" />
+
+### TOOLS & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode" />
+
+### FIVEM
+
+<img src="https://skillicons.dev/icons?i=lua,js,git" />
+
+</div>
 
 ---
 
-## 💼 Featured Projects
+## 🚀 FEATURED WORK
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[IEEE ANU Store](https://ieeeanu.app)** | E-commerce platform for IEEE ANU covering educational materials, workshops, and membership services. | `React` `Node.js` `MongoDB` |
-| **[Justice City Framework](https://justicecfw.com)** | FiveM server framework with player stats, content-creator showcases, and a custom job/economy system. | `Lua` `MySQL` `React` |
-| **TRY JO E-commerce Store** | Arabic RTL e-commerce platform with category filtering, cart, and dynamic offers. | `React` `Laravel` `MySQL` |
-| **ATP Security Dashboard** | Real-time monitoring dashboard (CPU/RAM/network, logs, live analytics) with an Arabic RTL interface. | `Vue.js` `Node.js` `WebSockets` |
-| **User Management Dashboard** | Full account/role/permission management system with search, filtering, and export. | `React` `TypeScript` `Express` |
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🇯🇴 IEEE ANU Platform
+
+**Full-Stack Digital Platform**
+
+A complete digital platform for the IEEE student chapter at Ajloun National University.
+
+**Stack**
+
+`Next.js` `React` `Express.js` `PostgreSQL` `Neon` `Resend`
+
+**Highlights**
+
+* Full-stack architecture
+* Authentication
+* Password reset
+* Email system
+* PostgreSQL database
+* Responsive UI
+* Load testing with k6
+* Custom domain
+
+<br>
+
+<a href="https://ieeeanu.app/">
+<img src="https://img.shields.io/badge/LIVE_PROJECT-f5a623?style=for-the-badge&logo=googlechrome&logoColor=141210" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 Justice City Framework
+
+**FiveM Roleplay Ecosystem**
+
+A custom FiveM framework focused on performance, scalability and immersive roleplay systems.
+
+**Stack**
+
+`Lua` `JavaScript` `FiveM` `MySQL`
+
+**Highlights**
+
+* Custom economy
+* Jobs system
+* Player statistics
+* Content creator system
+* Server-side architecture
+* Performance optimization
+
+<br>
+
+<a href="https://justicecfw.com/">
+<img src="https://img.shields.io/badge/PROJECT-e85d26?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛒 TRY JO
+
+**Arabic RTL E-Commerce**
+
+Modern Arabic e-commerce experience with a strong focus on usability and responsive design.
+
+`HTML` `CSS` `JavaScript`
+
+**Features**
+
+* RTL interface
+* Product filtering
+* Shopping cart
+* Categories
+* Offers
+* Responsive design
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ ATP Security Dashboard
+
+**Real-Time Monitoring System**
+
+A security and infrastructure monitoring dashboard designed around real-time system visibility.
+
+**Features**
+
+* CPU monitoring
+* RAM monitoring
+* Network statistics
+* Logs
+* Live analytics
+* Arabic RTL interface
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📅 Professional Experience
+<div align="center">
 
-```mermaid
-timeline
-    title Career Journey
-    2021 - Present : Full-Stack Developer
-                  : Freelance & Contract
-                  : 40+ projects delivered globally
-    2023 - 2024   : FiveM Engineer
-                  : Justice City Framework
-                  : Player stats, economy, job system
-    2022 - 2023   : E-commerce Lead
-                  : TRY JO Store
-                  : Arabic RTL platform with payment integration
+## 📊 ENGINEERING BY NUMBERS
+
+<br>
+
+<img src="https://img.shields.io/badge/40%2B-PROJECTS-f5a623?style=for-the-badge&labelColor=141210" />
+<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPMENT-e85d26?style=for-the-badge&labelColor=141210" />
+<img src="https://img.shields.io/badge/FIVEM-ENGINEERING-f5a623?style=for-the-badge&labelColor=141210" />
+<img src="https://img.shields.io/badge/RTL-SUPPORT-9e9387?style=for-the-badge&labelColor=141210" />
+
+</div>
+
+---
+
+## 🧩 WHAT I DO
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🎨
+
+**FRONTEND**
+
+Modern interfaces, responsive layouts, animations and interactive experiences.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**BACKEND**
+
+APIs, authentication, databases, business logic and scalable architectures.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**DEPLOYMENT**
+
+Cloud deployments, domains, databases, CI/CD and production infrastructure.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎮
+
+**FIVEM**
+
+Custom frameworks, gameplay systems, jobs, economy and server optimization.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🏗️ ENGINEERING PHILOSOPHY
+
+```text
+                 ┌───────────────────┐
+                 │       IDEA        │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │       DESIGN      │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+              ┌─────────────────────────┐
+              │       ARCHITECTURE      │
+              └────────────┬────────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │       BUILD       │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │       TEST        │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │      DEPLOY       │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                 ┌───────────────────┐
+                 │     IMPROVE ♻     │
+                 └───────────────────┘
+```
+
+> **Design with purpose. Engineer with precision. Ship with confidence.**
+
+---
+
+## 🌐 DEVELOPMENT WORKFLOW
+
+<div align="center">
+
+```text
+DISCOVER
+   ↓
+DESIGN
+   ↓
+DEVELOP
+   ↓
+TEST
+   ↓
+OPTIMIZE
+   ↓
+DEPLOY
+   ↓
+MONITOR
+   ↓
+ITERATE
+```
+
+</div>
+
+---
+
+## 📈 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohamme-cmd&show_icons=true&hide_border=true&bg_color=141210&title_color=f5a623&icon_color=e85d26&text_color=f0ece4&ring_color=f5a623" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamme-cmd&layout=compact&hide_border=true&bg_color=141210&title_color=f5a623&text_color=f0ece4" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=mohamme-cmd&hide_border=true&background=141210&ring=f5a623&fire=e85d26&currStreakLabel=f5a623&sideLabels=9e9387&dates=9e9387&currStreakNum=f0ece4&sideNums=f0ece4" />
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION FLOW
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph.svg" />
+
+</div>
+
+---
+
+## 💻 MY DEVELOPMENT STACK
+
+| Area         | Technologies                                           |
+| ------------ | ------------------------------------------------------ |
+| **Frontend** | HTML5 · CSS3 · JavaScript · React · Next.js · Tailwind |
+| **Backend**  | Node.js · Express.js · Python · Rust                   |
+| **Database** | PostgreSQL · MySQL                                     |
+| **DevOps**   | Git · GitHub · Docker · Vercel · Linux                 |
+| **FiveM**    | Lua · JavaScript · FiveM                               |
+| **Design**   | Responsive UI · RTL · Accessibility · Motion           |
+| **Testing**  | k6 · API Testing · Performance Testing                 |
+
+---
+
+## 📂 PROJECT STRUCTURE
+
+```text
+portfolio/
+│
+├── index.html
+├── my-photo.jpg
+├── cv.pdf
+│
+├── images/
+│   ├── ieeeanu-app.jpg
+│   ├── justicecfw.jpg
+│   ├── tryjo-ecommerce.jpg
+│   ├── atp-security-dashboard.jpg
+│   └── user-management-dashboard.jpg
+│
+└── README.md
+```
+
+---
+
+## 📬 LET'S BUILD SOMETHING
+
+<div align="center">
+
+If you have an idea, project, startup or FiveM system —
+
+### **Let's turn it into something real. 🚀**
+
+<br>
+
+<a href="mailto:mohmmedalmomani3@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-f5a623?style=for-the-badge&logo=gmail&logoColor=141210" />
+</a>
+
+<a href="https://discord.com/users/king_momani">
+<img src="https://img.shields.io/badge/DISCORD-e85d26?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://wa.me/962787297364">
+<img src="https://img.shields.io/badge/WHATSAPP-f5a623?style=for-the-badge&logo=whatsapp&logoColor=141210" />
+</a>
+
+<a href="https://www.instagram.com/7amodah_momani">
+<img src="https://img.shields.io/badge/INSTAGRAM-e85d26?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ CODE · CREATE · SHIP · REPEAT
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mohamme-cmd&style=for-the-badge&color=f5a623&label=PROFILE+VIEWS" />
+
+<br><br>
+
+**© 2026 Mohmmed Almomani**
+
+<sub>Built with code, caffeine & obsession for great interfaces.</sub>
+
+</div>

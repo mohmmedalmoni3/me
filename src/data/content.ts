@@ -84,9 +84,9 @@ export const contactLinks = {
 const projectsEn: Project[] = [
   {
     tags: ['Featured', 'Web Platform'],
-    title: 'IEEE ANU Store',
+    title: 'IEEE ANU ',
     desc: 'A comprehensive platform for IEEE ANU featuring an e-commerce store for educational materials, training workshops, and membership services.',
-    stack: ['HTML', 'CSS', 'JavaScript'],
+    stack: ['React', 'Next Js', 'JavaScript'],
     link: 'https://ieeeanu.app',
     featured: true,
     image: '/projects/ieee-anu-store.jpg',
@@ -134,7 +134,7 @@ const projectsAr: Project[] = [
   },
   {
     tags: ['FiveM'],
-    title: 'إطار عمل Justice City',
+    title: 'Justice City',
     desc: 'إطار عمل متكامل لخوادم FiveM يضم إحصائيات اللاعبين، عرض صناع المحتوى، تكامل البث المباشر، ونظام وظائف قوي.',
     stack: ['Lua', 'JavaScript'],
     link: 'https://justicecfw.com/',
@@ -187,7 +187,7 @@ const experienceAr: ExperienceItem[] = [
     tech: ['Next.js', 'Node.js', 'Prisma', 'Lua'],
   },
   {
-    title: 'مطور ويب متكامل مستقل',
+    title: 'مطور ويب متكامل ',
     company: 'عمل حر',
     period: '2022 — الآن',
     desc: 'أنجزت أكثر من 40 مشروعاً لعملاء في منطقة الشرق الأوسط وشمال أفريقيا — لوحات تحكم SaaS، متاجر إلكترونية، واجهات برمجية مخصصة، وبنية خوادم FiveM.',
@@ -202,7 +202,7 @@ export const content: Record<Lang, Dict> = {
     about: {
       label: 'About Me',
       title: 'I Build Things<br/>That Actually Work',
-      p1: "I'm a Full-Stack Web Developer & FiveM Engineer passionate about building clean, performant applications — from pixel-perfect frontends to bulletproof backend APIs.",
+      p1: "I'm a Full-Stack Web Developer & Software Engineering and FiveM Engineer passionate about building clean, performant applications — from pixel-perfect frontends to bulletproof backend APIs.",
       p2: "Whether it's architecting a scalable SaaS platform or crafting a high-performance FiveM roleplay system, I obsess over developer experience, code quality, and the tiny details most people skip.",
       p3: "I've shipped products used by thousands of players and collaborated with teams across the Arab world and beyond. Currently open to freelance work and long-term partnerships.",
       statProjects: 'Projects Done',
